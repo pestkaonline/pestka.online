@@ -1,0 +1,4 @@
+- [[Anki]]
+- [[Duolingo]]
+- [[Obsidian]]
+- [[YouTube]]
