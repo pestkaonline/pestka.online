@@ -7,3 +7,5 @@ Menedżer pakietów czy też system zarządzania pakietami to zbiór narzędzi p
 
 # [[TODO]]
 - [ ] [[różnica między programem, a pakietem]]
+
+Powiązane: [[IT]], [[Linux]], [[Windows]]
