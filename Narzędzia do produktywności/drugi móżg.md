@@ -3,6 +3,6 @@
 
 ---
 ---
-Więcej o idei drugiego mózgu spróbuję napisać w przyszłośći. Tymczasem odsyłam Was do zapoznania się z poniższymi postami w j. angielskim:
+Więcej o idei drugiego mózgu spróbuję napisać w przyszłośći. Tymczasem zapraszam Was do zapoznania się z poniższymi postami w j. angielskim:
 - [The Building a Second Brain Podcast - Tiago Forte | krzysztof.io](https://krzysztof.io/basb-podcast/)
 - [podsumowaniem metodologii autorstwa Tiago Forte](https://fortelabs.co/blog/basboverview/).
