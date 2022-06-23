@@ -1,6 +1,6 @@
 1. w systemie [[Windows]]
-	1. [[Powershell]]
-		1. [[Powershell#^325b18}|uruchom powłokę Powershell]]
+	1. [[PowerShell]]
+		1. [[PowerShell#^325b18}|uruchom powłokę Powershell]]
 		2. wykonaj poniższą komendę
 		``` Powershell
 		Get-WmiObject -Class Win32_ComputerSystem
