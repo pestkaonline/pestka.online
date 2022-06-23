@@ -1,0 +1,1 @@
+Ubuntu - jedna z najbardziej popularnych dystrybucji systemu [[Linux]] oparta na dystrybucji [[Debian]]

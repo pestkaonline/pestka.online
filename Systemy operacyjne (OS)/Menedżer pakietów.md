@@ -1,1 +1,0 @@
-Menedżer pakietów (system zarządzania pakietami)
