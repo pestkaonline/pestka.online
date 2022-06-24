@@ -1,6 +1,6 @@
 | Podsumowanie |
 | --------------- |
-| **Budowanie drugiego mózgu to metodologia zapisywania i systematycznego przypominania nam pomysłów, inspiracji, spostrzeżeń i połączeń, które zdobyliśmy dzięki naszemu doświadczeniu. Rozszerza naszą pamięć i intelekt za pomocą nowoczesnych narzędzi technologii i sieci.** |
+| Budowanie drugiego mózgu to metodologia zapisywania i systematycznego przypominania nam pomysłów, inspiracji, spostrzeżeń i połączeń, które zdobyliśmy dzięki naszemu doświadczeniu. Rozszerza naszą pamięć i intelekt za pomocą nowoczesnych narzędzi technologii i sieci. |
 ## 10 zasad budowania drugiego mózgu
 **UWAGA: poniższa treść to tłumaczenie [postu](https://krzysztof.io/basb-podcast/) z bloga Krzysztofa Jendrzycy, gdzie autor podsumował odcinek "The 10 Principles of Building a Second Brain" nagrany przez [THE BUILDING A SECOND BRAIN PODCAST](https://open.spotify.com/show/40O0Lbp5ockSt0qSogo6q1). Zapraszam do odwiedzenia bloga [https://krzysztof.io/](https://krzysztof.io/) gdzie można znaleźć dużo ciekawych treści w tematach takich jak [[IT]] i [[produktywność]].**
 
