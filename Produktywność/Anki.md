@@ -8,6 +8,6 @@
 	- [[Windows]]
 	- [[Linux]]
 	- OS X
-	- Android (jako AnkiDroid)
-	- iOS (AnkiMobile)
+	- Android ([AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki))
+	- iOS ([AnkiMobile](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387))
 	- Web ([AnkiWeb](https://ankiweb.net/))
