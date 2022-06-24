@@ -72,8 +72,8 @@
 - Ale czasu zaczyna brakować.
 - Powolne spalanie - powolne zbieranie i zbieranie, jeszcze rok wcześniej, a potem praca. Zmniejsza to stres i ułatwia życie.
 	- Uwaga: mój przykład ślubu. Wiedziałem, jak to będzie wyglądać rok wcześniej. Po prostu musiałem to podłączyć.
-- **Zamiast grzebać teraz, możesz zostać redaktorem.
-- **Zamiast być myśliwym, możesz być padlinożercą.
+- **Zamiast grzebać teraz, możesz zostać redaktorem.**
+- **Zamiast być myśliwym, możesz być padlinożercą.**
 - Żyjemy w kreatywnej eksplozji, nie musisz wykonywać dodatkowej pracy.
 - **Poszerz soczewkę swojej uwagi.**
 ### Zacznij od obfitości
@@ -114,7 +114,7 @@
 - Ludzie myślą o nauce i pracy jako o dwóch oddzielnych krokach.
 - Ale to nie działa w ten sposób.
 - Możesz uczyć się pracując. Uczysz się, kiedy masz do czynienia z praktycznymi trudnościami.
-- Uwaga: **Tiago chwalił się ilością przeczytanych książek. Ale kiedy rok później spojrzał na książkę, przypomniał sobie, że jest cenna, ale nie pamiętał, o czym była. ** Tak jak ja.
+- Uwaga: **Tiago chwalił się ilością przeczytanych książek. Ale kiedy rok później spojrzał na książkę, przypomniał sobie, że jest cenna, ale nie pamiętał, o czym była.** Tak jak ja.
 - **To złudzenie.**
 - **Czy zależy Ci na imponujących statystykach lub zaangażowaniu na najgłębszym poziomie w tych obszarach?**
 - Zamiast czytać 30 książek rocznie. Przeczytaj 5.
