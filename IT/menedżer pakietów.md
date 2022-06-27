@@ -4,5 +4,5 @@
 | Nazwa   | Użycie                                                          |
 | ------- | --------------------------------------------------------------- |
 | [[APT]] | [[system uniksopodobny\|systemy uniksopodobne]], np. [[Ubuntu]] |
-| [[Windows Package Manager]] | [[Windows 10]], [[Windows 11]]                                                                 |
+| [[Windows Package Manager (winget)]] | [[Windows 10]], [[Windows 11]]                                                                 |
 Powiązane: [[IT]], [[Linux]], [[Windows]]
