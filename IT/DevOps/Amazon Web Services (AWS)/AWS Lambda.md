@@ -1,0 +1,2 @@
+## Podsumowanie
+>Lambda to usługa obliczeniowa, która umożliwia uruchamianie kodu bez potrzezbny udostępniania serwerów i zarządzania nimi. Lambda uruchamia kod w infrastrukturze [[Amazon Web Services (AWS)]] i zajmuje się automatycznie administracją zasobami, dzięki czemu aplikacje można uruchomić dużo szybciej.
