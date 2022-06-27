@@ -7,3 +7,4 @@
 - [Welcome - Eleanor's Notes - Obsidian Publish](https://publish.obsidian.md/eleanorkonik/00+Meta/03+Guidance/Welcome)
 - [welcome - Santi Younger Notes - Obsidian Publish](https://publish.obsidian.md/santi/welcome)
 - [Welcome to The Quantum Well! - The Quantum Well - Obsidian Publish](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
+- [My Knowledge Wiki | Everything I know (nikiv.dev)](https://wiki.nikiv.dev/#must-read-pages)
