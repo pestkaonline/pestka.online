@@ -2,5 +2,5 @@
 - [[Atomowe nawyki. James Clear]]
 - [[Narzędzia tytanów. Timothy Ferriss]]
 - [[Praca głęboka. Cal Newport]]
-
-## [[IT]]
+## Finanse
+- [[Bogaty Ojciec Biedny Ojciec. Robert Kiyosaki]] 
