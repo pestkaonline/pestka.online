@@ -1,0 +1,1 @@
+Porównanie już wkrótce.
