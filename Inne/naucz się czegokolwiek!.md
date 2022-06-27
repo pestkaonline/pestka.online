@@ -5,7 +5,7 @@
 ## Jak to działa?
 ![[My Movie.gif]]
 - Po wejściu na stronę projektu wpisujemy w polu wyszukiwania (w języku angielskim) nazwę umiejętności, którą chcemy zdobyć.
-  ![[Pasted image 20220627205858.png]]
+  ![[Pasted image 20220627214910.png]]
 - Dostajemy wyniki opracowane przez społeczność co może nam oszczędzić czas jeśli nie wiemy od czego zacząć naukę danego zagadnienia.
   
   ![[Pasted image 20220627214422.png]]
