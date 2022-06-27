@@ -13,6 +13,4 @@ Poniżej jedne z najszybszych metod.
 3. Naciśnij klawisz Enter
 ### 2. Menu Windows-X
 1. Wciśnij klawisz loga Windows  ⊞ + X
-2. Wybierz opcję "Program Windows PowerShell"
-
-	
+2. Wybierz opcję "Program Windows PowerShell" lub "Program Windows Powershell (Administrator)"
