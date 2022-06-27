@@ -3,7 +3,7 @@
 # Przykłady
 | Nazwa   | Użycie                                                          |
 | ------- | --------------------------------------------------------------- |
-| [[APT]] | [[system uniksopodobny\|systemy uniksopodobne]], np. [[Ubuntu]] |
+| [[APT 1]] | [[system uniksopodobny\|systemy uniksopodobne]], np. [[Ubuntu]] |
 | [[Windows Package Manager (winget)]] | [[Windows 10]], [[Windows 11]]                                                                 |
 
 ---
