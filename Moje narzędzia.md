@@ -1,4 +1,4 @@
 - [[Anki]]
-- [[Duolingo]]
-- [[Obsidian]]
+- [Duolingo](https://www.duolingo.com/)
+- [Obsidian](https://obsidian.md/)
 - [[YouTube]]
