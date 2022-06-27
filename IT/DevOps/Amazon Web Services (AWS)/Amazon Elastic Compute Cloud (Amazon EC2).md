@@ -1,0 +1,2 @@
+## Podsumowanie
+>Amazon Elastic Compute Cloud (Amazon EC2) - zapewnia skalowalną moc obliczeniową w chmurze [[Amazon Web Services (AWS)]]. Korzystanie z Amazon EC2 eliminuje potrzebę inwestowania z góry w sprzęt, dzięki czemu możemy szybciej opracowywać i wdrażać aplikacje. Amazon EC2 można użyć do uruchomienia dużej ilości serwerów wirtualnych, konfiguracji zabezpieczeń i sieci oraz zarządzania pamięcią masową. Amazon EC2 umożliwia skalowanie w górę lub w dół, aby poradzić sobie ze zmianami wymagań lub skokami popularności, zmniejszając potrzebę prognozowania ruchu.
