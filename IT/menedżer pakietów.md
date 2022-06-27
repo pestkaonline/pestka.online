@@ -5,4 +5,6 @@
 | ------- | --------------------------------------------------------------- |
 | [[APT]] | [[system uniksopodobny\|systemy uniksopodobne]], np. [[Ubuntu]] |
 | [[Windows Package Manager (winget)]] | [[Windows 10]], [[Windows 11]]                                                                 |
+
+---
 Powiązane: [[IT]], [[Linux]], [[Windows]]
