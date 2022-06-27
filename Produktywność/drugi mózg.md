@@ -15,9 +15,9 @@
 - Pożyczanie kreatywności jest jak pomijanie kroków.
 ### Nawyk łapania
 - Zleć zapamiętywanie na swoje urządzenia.
-- Pochodzi z GTD.
+- Pochodzi z [GTD](https://pl.wikipedia.org/wiki/Getting_Things_Done)).
 - To proste: zapisz to. Zanim się zorientujesz, że go użyjesz.
-- Pamięć robocza jest ograniczona. Musisz go stale rozładowywać.
+- Pamięć robocza jest ograniczona. Musisz ją stale rozładowywać.
 - Brak rozróżnienia między moimi pomysłami a czyimiś pomysłami.
 - Jeśli nie działasz, to nic nie działa.
 - Nie analizuj, nie uchwyć, słuchaj swoich wnętrzności.
