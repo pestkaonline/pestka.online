@@ -4,7 +4,7 @@
 - [Projekt](https://github.com/learn-anything/learn-anything) ma ponad 14 tys. polubień na [[GitHub]] i na chwilę obecną widać niemalże codzienne aktualizacje.
 ## Jak to działa?
 ![[My Movie.gif]]
-- Po wejściu na stronę projektu wpisujemy w polu wyszukiwania (w języku angielskim) nazwę umiejętności, którą chcemy zdobyć.
+- Po wejściu na [stronę projektu](https://learn-anything.xyz/) wpisujemy w polu wyszukiwania (w języku angielskim) nazwę umiejętności, którą chcemy zdobyć.
   ![[Pasted image 20220627214910.png]]
 - Dostajemy wyniki opracowane przez społeczność co może nam oszczędzić czas jeśli nie wiemy od czego zacząć naukę danego zagadnienia.
   
