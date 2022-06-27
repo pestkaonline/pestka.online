@@ -6,4 +6,3 @@
 ## Przydatne linki
 - [Myślenie Krytyczne (mysleniekrytyczne.edu.pl)](https://mysleniekrytyczne.edu.pl/)
 - [TOC | TOC dla Edukacji – Myślenie krytyczne, Rozwiązywanie problemów, Jak uczyć myślenia, Myślenie logiczne](https://www.toc.edu.pl/narzedzia-krytycznego-myslenia/toc/)
-- 
