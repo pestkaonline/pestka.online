@@ -1,6 +1,5 @@
-| Podsumowanie |
-| ------------ |
-|Powershell - rozwiązanie używane do automatyzacji, głównie w systemach z rodziny [[Windows]]. Zazwyczaj używana jest powłoka wiersza polecenia w której wpisuje się komendy.|
+## Podsumowanie
+>Powershell - rozwiązanie używane do automatyzacji, głównie w systemach z rodziny [[Windows]]. Zazwyczaj używana jest powłoka wiersza polecenia w której wpisuje się komendy.|
 ## Jak uruchomić powłokę [[PowerShell]] w  systemie [[Windows]]?
 ^325b18
 Poniżej jedne z najszybszych metod.
