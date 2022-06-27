@@ -7,4 +7,6 @@
 		```
 		Przykładowy wynik
 		![[Pasted image 20220623234759.png]]
+
+---
 Powiązane: [[Windows]]
