@@ -11,4 +11,6 @@ Przykład artykułu: [Raporty płacowe – na co zwracać w nich uwagę? | HRlit
 4. Wyszukaj "datePublished" lub "dateModified".
 5. Jeśli strona zawiera taką informację to wygląda to jak na obrazku poniżej.
    ![[Pasted image 20220629143654.png]]
-   Test ![[Wordpress#Podsumowanie]] 
+   Test
+   <dfn><abbr title="Cascading Style Sheets">CSS</abbr>
+   po teście 
