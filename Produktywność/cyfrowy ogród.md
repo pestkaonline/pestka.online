@@ -1,5 +1,5 @@
 ## Podsumowanie
->Cyfrowy ogród - przestrzeń cyfrowa dla kolekcji myśli, które z czasem mogą ewoluować (zmieniać się jak ogród w czasie). Może mieć formę notatek/bloga jednak różnica polega na tym, że nie są one ściśle zorganizowane według daty publikacji. Jedna myśl urośnie, a drugą trzeba będzie przyciąć.
+>Cyfrowy ogród - przestrzeń cyfrowa dla kolekcji myśli, które z czasem mogą ewoluować (zmieniać się jak ogród w czasie). Może mieć formę notatek/bloga jednak różnica polega na tym, że nie są one ściśle zorganizowane według daty publikacji. Jedna myśl urośnie, a drugą trzeba będzie przyciąć (uprościć).
 
 ## Przykładowe cyfrowe ogrody
 - [My Knowledge Wiki | Everything I know (nikiv.dev)](https://wiki.nikiv.dev/#must-read-pages)

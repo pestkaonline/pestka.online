@@ -1,4 +1,4 @@
-> "Czasem wygrywasz, a czasem… się uczysz”
+> "Czasem wygrywasz, a czasem… się uczysz” 
 > [[John C. Maxwell]]
 
 >"Tak często przejmujemy się tym, co sprawia, że czujemy się dobrze, że zapominamy o tym co czyni nas wspaniałymi."
