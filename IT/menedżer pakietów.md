@@ -12,6 +12,7 @@
 - "plik" - nazwa/ścieżka pliku dla którego chcemy użyć komendy.
 - "wzor" - wzór, który chcemy użyć w komendzie.
 - "repo" - lokalizacja repozytorium, które chcemy użyć w komendzie.
+
 | Czynność                              | apt                        | dnf                                    | winget               |
 | ------------------------------------- | -------------------------- | -------------------------------------- | -------------------- |
 | Aktualizacja listy pakietów           | apt update                 | dnf check-update                       | winget upgrade       |
