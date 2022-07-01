@@ -1,4 +1,4 @@
-Czasami chcemy sprawdzić datę publikacji artykułu na blogu, aby dowiedzieć się jak "świeże" są informacje na stronie lub kiedy powstał ostatni artykuł. Nie zawsze są one domyślnie widoczne.
+Czasami chcemy sprawdzić datę i godzinę publikacji artykułu na blogu, aby dowiedzieć się jak "świeże" są informacje na stronie lub kiedy powstał ostatni artykuł. Nie zawsze są one domyślnie widoczne.
 ## Rozwiązanie
 Przykład artykułu: [Raporty płacowe – na co zwracać w nich uwagę? | HRlityczny](https://hrlityczny.pl/raporty-placowe-na-co-zwracac-w-nich-uwage/)
 1. Otwórz artykuł w przeglądarce na komputerze
