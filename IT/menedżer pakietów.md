@@ -13,7 +13,7 @@
 - "wzor" - wzór, który chcemy użyć w komendzie.
 - "repo" - lokalizacja repozytorium, które chcemy użyć w komendzie.
 
-| Czynność                              | apt                        | dnf                                    | winget               |
+| Czynność                              | [[APT (Advanced Packaging Tool)\|apt]]                        | [[DNF (Dandified YUM)\|dnf]]                                    | [[Windows Package Manager (winget)\|winget]]               |
 | ------------------------------------- | -------------------------- | -------------------------------------- | -------------------- |
 | Aktualizacja listy pakietów           | apt update                 | dnf check-update                       | winget upgrade       |
 | Aktualizacja zainstalowanych pakietów | apt upgrade                | dnf update                             | winget upgrade --all |
