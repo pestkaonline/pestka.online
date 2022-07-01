@@ -1,4 +1,4 @@
-## [[menedżer pakietów]] [[dnf]]
+## [[menedżer pakietów]] [[DNF (Dandified YUM)]]
 1. Sprawdź aktualizacje dla wszystkich włączonych repozytoriów
    ```shell
    sudo dnf check-update
@@ -8,7 +8,7 @@
    ```shell
    sudo dnf upgrade --refresh
 	```
-3. Zainstaluj [[Python]] 3 przy użyciu [[menedżer pakietów|menedżera pakietów]] [[dnf]] używając poniższej komendy
+3. Zainstaluj [[Python]] 3 przy użyciu [[menedżer pakietów|menedżera pakietów]] [[DNF (Dandified YUM)]] używając poniższej komendy
 	```shell
 	   sudo dnf install python3
 	```
