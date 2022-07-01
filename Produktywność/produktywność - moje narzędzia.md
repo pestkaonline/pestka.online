@@ -2,3 +2,4 @@
 - [Duolingo](https://www.duolingo.com/)
 - [Obsidian](https://obsidian.md/)
 - [[YouTube]]
+- [Vimium - the hacker's browser](https://vimium.github.io/)
