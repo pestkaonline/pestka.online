@@ -7,5 +7,5 @@
 ## Jak używam [[Anki]]?
 - Aplikacja mobilna dla systemu Android ([AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)).
 - Aplikacja desktopowa dla systemu [[Windows]].
-- Integracja notatek z [[pestka.online/Produktywność/Obsidian]] z [[Anki]] dzięki pluginowi [Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki).
+- Integracja notatek z [[Obsidian]] z [[Anki]] dzięki pluginowi [Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki).
 	- Działa tylko w wersji desktopowej.
