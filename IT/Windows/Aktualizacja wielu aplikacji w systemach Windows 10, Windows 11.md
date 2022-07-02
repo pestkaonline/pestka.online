@@ -1,4 +1,4 @@
-## Jak zaktualizować wiele aplikacji jednocześnie w systemach [[Windows 10]]/[[Windows 11]] przy użyciu [[Windows Package Manager (winget)]]?
+Do aktualizacji wielu aplikacji jednocześnie użyjemy [[Windows Package Manager (winget)]].
 1. [[PowerShell#^fb7174|Uruchom powłokę PowerShell]]
 2. Wykonaj poniższe
    ```powershell
