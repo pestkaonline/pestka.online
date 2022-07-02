@@ -4,7 +4,7 @@
 |        |                                                        |
 | ------- | ------------------------------------------------------- |
 | [[System operacyjny]] | [[Windows]], [[Linux]], OS X, [[Android]] ([AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)), iOS ([AnkiMobile](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387)), Web ([AnkiWeb](https://ankiweb.net/)) |
-| Dokumentacja | Introduction - Anki Manual (ankiweb.net)](https://docs.ankiweb.net/)                                                     |
+| Dokumentacja | [Introduction - Anki Manual (ankiweb.net)](https://docs.ankiweb.net/)                                                     |
 
 ## Jak używam [[Anki]]?
 - Aplikacja mobilna dla systemu [[Android]] ([AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)).
