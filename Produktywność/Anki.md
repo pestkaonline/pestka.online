@@ -10,7 +10,7 @@
   |                      |                                                                                                                                                                                                                                                     |
   | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | System operacyjny | Windows, Linux, OS X, Android (AnkiDroid), iOS (AnkiMobile), Web (AnkiWeb) |
-  | Dokumentacja          | Introduction - Anki Manual (ankiweb.net)(https://docs.ankiweb.net/)                                                                                                                                                                               |
+  | Dokumentacja          | Introduction - Anki Manual (ankiweb.net)                                                                                                                                                                               |
 
 
 ## Jak używam [[Anki]]?
