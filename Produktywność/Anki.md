@@ -9,7 +9,7 @@
 
   |                   |                                                                            |
   | ----------------- | -------------------------------------------------------------------------- |
-  | System operacyjny | Windows, Linux, OS X, Android (AnkiDroid), iOS (AnkiMobile), Web (AnkiWeb) |
+  | System operacyjny | Windows, Linux, OS X, Android  |
   | Dokumentacja      | Introduction - Anki Manual (ankiweb.net)                                   |
 
 
