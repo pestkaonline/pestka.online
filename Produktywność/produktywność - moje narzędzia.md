@@ -1,5 +1,6 @@
 - [[Anki]]
 - [Duolingo](https://www.duolingo.com/)
 - [Obsidian](https://obsidian.md/)
+- [Switcheroo](https://github.com/kvakulo/Switcheroo)
 - [[YouTube]]
 - [Vimium - the hacker's browser](https://vimium.github.io/)
